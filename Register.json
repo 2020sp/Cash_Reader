@@ -1,6 +1,16 @@
 {
    "users":[
       {
+         "name":"Naresh Khushmi",
+         "email":"nareshkhushmi3@gmail.com",
+         "deviceId":"eac359d9a3bc82d8"
+      },
+      {
+         "name":"Siddharth Mahajan",
+         "email":"siddharthmahajan15@gmail.com",
+         "deviceId":"b0fca909249f5df1"
+      },
+      {
          "name":"Akib Azad",
          "email":"akibazad9958@gmail.com",
          "deviceId":"357192100046295"
