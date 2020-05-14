@@ -1,6 +1,11 @@
 {
    "users":[
       {
+         "name":"Vinod Koicade",
+         "email":"vinodkoicade@gmail.com",
+         "deviceId":"a47f6f2ce4d3db31"
+      },
+      {
          "name":"Aziz Arsiwala",
          "email":"arsiwala65@gmail.com",
          "device":"Nokia",
